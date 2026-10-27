@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ishaan</h1>
+<h3 align="center">A student on a journey to becoming a better developer, one line of code at a time</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+C%2B%2B%2C+%26+Python;Building+Cool+Stuff;Always+Debugging+Something+%F0%9F%98%85" alt="Typing SVG" />
+</p>
+<!-- <p align="center">
+  <img src="https://img.shields.io/github/followers/BL4Z23?style=for-the-badge&logo=github&color=30363D" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FBL4Z23%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20(last%20year)&style=for-the-badge&logo=github&color=36BCF7" alt="Contributions in the last year" />
+</p> -->
 
-<!--
-**ishaangupta17/ishaangupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+* I'm a **student**, currently learning to code
+* Working with **C++**, and **Python**
+* Focused on strengthening my fundamentals and building real projects
+* Fun fact: every bug is just a lesson in disguise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+Github Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-hazel-pi-72.vercel.app/api?username=ishaangupta17&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FF7F11&custom_title=Ishaan%27s%20GitHub%20Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ishaangupta17&hide_border=true&background=0D1117&border=0D1117&stroke=30363D&ring=FF4500&fire=FF7F11&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=FF7F11&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=2" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-hazel-pi-72.vercel.app/api/top-langs/?username=ishaangupta17&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" />
+</p>
+Daily Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</p>
+Connect With Me
+<p align="center">
+  <a href="mailto:ishaan.gupta17596ig@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/ishaan181107" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+<p align="center"><i>Thanks for stopping by!</i></p>
